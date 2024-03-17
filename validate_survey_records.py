@@ -33,8 +33,8 @@ def main():
     # Database connection details
     server = '10.190.30.51'
     database = 'Asics_SportsMarketing_Dev'
-    username = 'jkhan'
-    password = 'jkhan'
+    username = 'username'
+    password = 'password'
     driver = '{ODBC Driver 17 for SQL Server}'
 
     # Establish a database connection
